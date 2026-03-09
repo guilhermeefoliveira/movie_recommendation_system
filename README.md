@@ -42,3 +42,23 @@ This project implements and compares multiple movie recommendation strategies in
 1. Create and activate a virtual environment (optional but recommended).
 2. Install dependencies.
 3. Open the notebook and run all cells.
+
+---
+## **Author and Links**
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/145709364?v=4"
+    />
+    <p>&nbsp&nbsp&nbspGuilherme (Gui) Freire Oliveira<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/guilhermeefoliveira">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/guilhermeefoliveira/">LinkedIn</a>
+    </p>
+</p>
+<br/><br/>
+<p>
